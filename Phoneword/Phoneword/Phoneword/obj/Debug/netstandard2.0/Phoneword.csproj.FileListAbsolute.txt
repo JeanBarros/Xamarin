@@ -1,0 +1,12 @@
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+E:\JEAN\Treinamentos\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
