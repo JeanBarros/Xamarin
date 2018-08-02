@@ -1,0 +1,12 @@
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\bin\Debug\netstandard2.0\BoasVindas.deps.json
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\bin\Debug\netstandard2.0\BoasVindas.dll
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\bin\Debug\netstandard2.0\BoasVindas.pdb
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\BoasVindas.csproj.CoreCompileInputs.cache
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\BoasVindas.AssemblyInfoInputs.cache
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\BoasVindas.AssemblyInfo.cs
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\XamlC.stamp
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\BoasVindas.dll
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\BoasVindas.pdb
+E:\JEAN\Treinamentos\Xamarin\BoasVindas\BoasVindas\BoasVindas\obj\Debug\netstandard2.0\BoasVindas.csprojAssemblyReference.cache
