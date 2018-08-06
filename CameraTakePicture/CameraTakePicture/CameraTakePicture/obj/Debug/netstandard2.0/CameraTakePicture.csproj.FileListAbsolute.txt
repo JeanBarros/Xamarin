@@ -1,0 +1,12 @@
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\bin\Debug\netstandard2.0\CameraTakePicture.deps.json
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\bin\Debug\netstandard2.0\CameraTakePicture.dll
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\CameraTakePicture.csprojAssemblyReference.cache
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\CameraTakePicture.csproj.CoreCompileInputs.cache
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\CameraTakePicture.AssemblyInfoInputs.cache
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\CameraTakePicture.AssemblyInfo.cs
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\XamlC.stamp
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\bin\Debug\netstandard2.0\CameraTakePicture.pdb
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\CameraTakePicture.dll
+E:\JEAN\Treinamentos\Xamarin\CameraTakePicture\CameraTakePicture\CameraTakePicture\obj\Debug\netstandard2.0\CameraTakePicture.pdb
