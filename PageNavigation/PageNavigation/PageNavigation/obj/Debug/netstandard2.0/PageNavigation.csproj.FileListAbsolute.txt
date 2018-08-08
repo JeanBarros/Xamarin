@@ -1,0 +1,15 @@
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\bin\Debug\netstandard2.0\PageNavigation.deps.json
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\bin\Debug\netstandard2.0\PageNavigation.dll
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\bin\Debug\netstandard2.0\PageNavigation.pdb
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\PageNavigation.csprojAssemblyReference.cache
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\Views\RegisterView.xaml.g.cs
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\PageNavigation.csproj.CoreCompileInputs.cache
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\PageNavigation.AssemblyInfoInputs.cache
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\PageNavigation.AssemblyInfo.cs
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\PageNavigation.dll
+E:\JEAN\Treinamentos\Xamarin\PageNavigation\PageNavigation\PageNavigation\obj\Debug\netstandard2.0\PageNavigation.pdb
